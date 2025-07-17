@@ -1,4 +1,4 @@
-# CUKbab Changelog
+# CUK밥 Changelog
 
 ## Version 1.0
 - Initial release

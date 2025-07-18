@@ -9,3 +9,9 @@
 - Added animations
 - Added a screen for summer/winter vacation
 - Changed UI
+
+## Version 1.1.1
+
+- Fixed translation issues
+- Fixed theme bugs
+- Cleaned up the settings page

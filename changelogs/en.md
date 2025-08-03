@@ -15,3 +15,8 @@
 - Fixed translation issues
 - Fixed theme bugs
 - Cleaned up the settings page
+
+## Version 1.1.2
+- Improved vacation screen behavior
+- Optimized report submission logic
+- Minor UI polish and bug fixes

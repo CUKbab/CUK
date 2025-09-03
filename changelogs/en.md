@@ -20,3 +20,8 @@
 - Improved vacation screen behavior
 - Optimized report submission logic
 - Minor UI polish and bug fixes
+
+## Version 1.1.3
+- Redesigned settings screen
+- Added Café Bona operating hours display
+- Minor UI polish and bug fixes

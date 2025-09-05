@@ -25,3 +25,7 @@
 - Redesigned settings screen
 - Added Café Bona operating hours display
 - Minor UI polish and bug fixes
+
+## Version 1.1.4
+- Fixed widget menu not syncing 
+- Fixed widget size not changing

@@ -1,5 +1,9 @@
 # CUK밥 Changelog
 
+## Version 1.2.1
+- Fixed widget translations
+- Changed default widget colors
+
 ## Version 1.2
 - Added cached menu system (works offline or with unstable network)
 - Added refresh button to the widget

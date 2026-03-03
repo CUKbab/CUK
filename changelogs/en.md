@@ -1,5 +1,17 @@
 # CUK밥 Changelog
 
+## Version 2.0.0
+- Completely rebuilt the app from scratch
+- Overhauled UI with Google’s Material 3 design
+- Improved landscape and tablet support
+- Updated app structure to adapt to the new cafeteria menu format
+- Added login system to prevent spam in suggestions and bug reports
+- Reporting menu errors remains available without login
+- Added in-app font size adjustment
+- Added in-app language changer (Korean, English, Japanese, Chinese - zh-rCN)
+- Improved and redesigned widget system
+- Various performance improvements and bug fixes
+
 ## Version 1.2.1
 - Fixed widget translations
 - Changed default widget colors

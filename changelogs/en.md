@@ -1,27 +1,11 @@
-## Version 2.1.0
-
-## Added
-
-In-app update checker
-Onboarding tutorial system for new users
-Notifications for pinned meals
-Smart calendar for quickly jumping to specific menu dates
-Menu history system to view previous menus
-Accent color customization
-Privacy policy link
-Link to the GitHub repository used for menu parsing
-Open source license
-Account deletion feature
-
-## Changed
-
-Migrated to a newer version of Google Sign-In for improved authentication security
-
-## Fixed
-
-Widgets not loading properly
-“What’s New” page defaulting to English
-
-## Improved
-
-Various minor improvements and bug fixes
+## Version 2.0.0
+- Completely rebuilt the app from scratch
+- Overhauled UI with Google’s Material 3 design
+- Improved landscape and tablet support
+- Updated app structure to adapt to the new cafeteria menu format
+- Added login system to prevent spam in suggestions and bug reports
+- Reporting menu errors remains available without login
+- Added in-app font size adjustment
+- Added in-app language changer (Korean, English, Japanese, Chinese - zh-rCN)
+- Improved and redesigned widget system
+- Various performance improvements and bug fixes

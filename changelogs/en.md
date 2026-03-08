@@ -1,27 +1,27 @@
 ## Version 2.1.0
 
-### Added
+## Added
 
-* In-app update checker
-* Onboarding tutorial system for new users
-* Notifications for pinned meals
-* Smart calendar for quickly jumping to specific menu dates
-* Menu history system to view previous menus
-* Accent color customization
-* Privacy policy link
-* Link to the GitHub repository used for menu parsing
-* Open source license
-* Account deletion feature
+In-app update checker
+Onboarding tutorial system for new users
+Notifications for pinned meals
+Smart calendar for quickly jumping to specific menu dates
+Menu history system to view previous menus
+Accent color customization
+Privacy policy link
+Link to the GitHub repository used for menu parsing
+Open source license
+Account deletion feature
 
-### Changed
+## Changed
 
-* Migrated to a newer version of Google Sign-In for improved authentication security
+Migrated to a newer version of Google Sign-In for improved authentication security
 
-### Fixed
+## Fixed
 
-* Widgets not loading properly
-* “What’s New” page defaulting to English
+Widgets not loading properly
+“What’s New” page defaulting to English
 
-### Improved
+## Improved
 
-* Various minor improvements and bug fixes
+Various minor improvements and bug fixes

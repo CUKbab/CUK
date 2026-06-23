@@ -4,5 +4,11 @@
     "title": "New Announcement System!",
     "content": "A new toggleable announcement system is here!",
     "type": "info"
+  },
+  {
+    "id": 2,
+    "title": "Menu errors has been resolved",
+    "content": "Menu errors has been resolved",
+    "type": "info"
   }
 ]

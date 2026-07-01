@@ -6,9 +6,9 @@
     "type": "info"
   },
   {
-    "id": 2,
-    "title": "Menu errors has been resolved",
-    "content": "Menu errors has been resolved",
+    "id": 3,
+    "title": "Menu errors have been resolved",
+    "content": "Menu errors have been resolved. Please update the app to see it.",
     "type": "info"
   }
 ]

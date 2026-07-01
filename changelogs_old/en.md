@@ -1,5 +1,20 @@
 # CUK밥 Changelog
 
+## Version 2.2.0
+
+### Added
+- Announcement System: Added a new announcement button (megaphone icon) to the top of the screen to keep you updated with the latest app news.
+- Smart Notifications: You can now receive notifications whenever a new announcement is posted or when the menu is updated with new information.
+- Notification Controls: Added a new "Announcement Notifications" toggle in Settings, giving you full control over which alerts you receive.
+- Better Localization: Announcements and update logs are now automatically displayed in your selected language (Korean, Japanese, Chinese, or English).
+
+### Changed
+- Smarter First Start: New notifications will now wait until you've finished the introductory tutorial before appearing, ensuring a cleaner first experience.
+
+### Improved
+- Background Polling: Improved the way the app checks for updates in the background to be more battery-efficient and reliable.
+- Multi-Language Support: Localized all new settings and notification messages for Korean, Japanese, and Chinese users.
+
 ## Version 2.1.0
 
 New Features

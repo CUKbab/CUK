@@ -1,7 +1,4 @@
-# CUK밥 PC v1.0.0
+# CUK밥 PC v1.0.1
 
-## 新機能
-- Linux、Windows、macOSのサポート
-- Buon pranzoとCafe Bonaのメニュー表示
-- ダークモード / ライトモードおよび多言語対応
-- オフラインキャッシュのサポート
+## バグ修正
+- macOSのインストール問題を修正
